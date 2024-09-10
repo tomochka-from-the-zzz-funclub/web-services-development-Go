@@ -1,5 +1,5 @@
 # <h1 align="center"> web-services-development-Go
-Здесь размещены домашние задания и код лекций по курсу: 
+Здесь размещены домашние задания по курсу: 
 
 <h3 align="center"><a href="https://stepik.org/course/187490/syllabus" target="_blank">Разработка веб-сервисов на Golang (Go)</a> 
 
